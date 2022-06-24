@@ -47,6 +47,7 @@ p {
   /* margin: 40px auto;
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1); */
   margin: 0 auto;
+  margin-top: 20px;
 }
 
 /* Main content section */
@@ -83,6 +84,7 @@ p {
   line-height: 60px;
   color: var(--title-text-color);
   margin-bottom: 25px;
+  margin-top: 20px;
 }
 
 .about-me-description {
@@ -192,6 +194,7 @@ p {
   align-items: center;
   justify-content: center;
   margin-bottom: 40px;
+  margin-top: 20px;
 }
 
 .photo {  
