@@ -139,6 +139,7 @@ p {
   /* color: var(--accent-color); */
   color:#000000;
   margin-bottom: 10px;
+  margin-top: 10px;
 }
 
 .my-work-experience-position {
@@ -182,7 +183,7 @@ p {
 .sidebar-section {
   background-color: var(--accent-bg-color);
   width: 600px;
-  padding: 50px;
+  padding: 20px;
   color: var(--primary-bg-color);
 }
 
@@ -200,7 +201,7 @@ p {
 }
 
 .sidebar {
-  margin-left: 40px;
+  margin-left: 20px;
 }
 
 .section-title {  
